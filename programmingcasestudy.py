@@ -15,11 +15,11 @@ pyautogui.FAILSAFE = False
 
 # ── Config ────────────────────────────────────────────────────
 CITY = "Visakhapatnam"
-WEATHER_API_KEY = "c9195446eaf67072040bc89f58cabe5c"
+WEATHER_API_KEY = "your_weather_api_key_here"
 ASSISTANT_NAME = "Jarvis"
 USER_NAME = "Bhevanesh"
 MUSIC_FOLDER = r"C:\Users\bhava\Music"
-NEWS_API_KEY = "c211081b65b44c758e2dadcfe549ab5f"
+NEWS_API_KEY ="your_news_api_key_here"
 
 # ── Logging ───────────────────────────────────────────────────
 logging.basicConfig(
